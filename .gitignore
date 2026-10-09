@@ -1,0 +1,16 @@
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# 本地测试文件
+python-code-review/test.py
+
+# 本地配置和敏感信息
+.env
+.env.*
+mcp.json
